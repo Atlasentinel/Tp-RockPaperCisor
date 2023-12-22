@@ -49,7 +49,7 @@ npm install --save-dev mocha chai
 
 Tous les tests sont au ✔
 
-![image_test](image_test.jpg)
+![image_test](image_test.PNG)
 
 **Ce projet a été réalisé par Loan et Noé**
 
